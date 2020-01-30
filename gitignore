@@ -1,0 +1,4 @@
+#Ignore original raw data file (too large)
+Data/01_Raw/
+Data/02_Intermediate/
+Data/03_Processed/
