@@ -1,4 +1,6 @@
 #Ignore data files (size)
-Data/01_Raw/
-Data/02_Intermediate/
-Data/03_Processed/
+Data/
+
+#Ignore Checkpoints
+*.ipynb_checkpoints
+
