@@ -4,3 +4,5 @@ Data/
 #Ignore Checkpoints
 *.ipynb_checkpoints
 
+#Ignore pycache files
+*pycache*
